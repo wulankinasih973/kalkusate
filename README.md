@@ -17,7 +17,7 @@
 
 ## Teknologi yang Digunakan
 
-- **PHP 8.x** dan **Laravel 12.34.0**
+- **PHP 8.2.12** dan **Laravel 12.34.0**
 - **MySQL** untuk database
 - **HTML, CSS, Bootstrap**
 - **JavaScript** untuk interaksi front-end
